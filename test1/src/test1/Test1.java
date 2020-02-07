@@ -5,5 +5,7 @@ public class Test1 {
 		int i=5;
 		System.out.println(i);
 		System.out.println(6);
+		System.out.println(1);
+		System.out.println(2);
 	}
 }
